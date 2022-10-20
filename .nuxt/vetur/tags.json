@@ -1,0 +1,11 @@
+{
+  "BaseHeader": {
+    "description": "Auto imported from components/BaseHeader.vue"
+  },
+  "Breadcrumb": {
+    "description": "Auto imported from components/Breadcrumb.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  }
+}

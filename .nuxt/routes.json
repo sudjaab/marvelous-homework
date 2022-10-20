@@ -1,0 +1,14 @@
+[
+  {
+    "name": "detail-id",
+    "path": "/detail/:id?",
+    "component": "D:\\\\Spy\\\\work\\\\marvelous-homework\\\\pages\\\\detail\\\\_id.vue",
+    "chunkName": "pages/detail/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Spy\\\\work\\\\marvelous-homework\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
